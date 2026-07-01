@@ -1,2 +1,2 @@
-# AutomationPracticeOne
+# AutomationPractice
 AutomationPracticeOne
